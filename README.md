@@ -1,6 +1,8 @@
 # Affirm Support Case Demo (Mock Project)
 
-This project demonstrates my ability to support merchant partners in a technical SaaS environment, as described in the [Affirm Product Support Specialist I job posting](https://www.affirm.com/). It includes two common API-related issues and how I would triage and escalate them in a real-world setting.
+This project demonstrates my ability to support merchant partners in a technical SaaS environment, as described in the [Affirm Product Support Specialist I job posting](https://www.affirm.com/). 
+
+It includes two common API-related issues and how I would triage and escalate them in a real-world setting.
 
 ---
 
