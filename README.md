@@ -21,23 +21,19 @@ How a clear communication and escalation process supports faster merchant resolu
 
 🛠️ **Built as part of a mock portfolio for the Affirm Product Support Specialist I role.**
 
-🧭 See the full visual flow of this support case: Support Lifecycle Diagram
+<pre> 🧭 See the full visual flow of this support case: Support Lifecycle Diagram
 affirm-merchant-support-case/
 ├── README.md
 ├── error-logs/
 │   ├── api-key-misfire.json
 │   └── webhook-fail-log.json
-│
--
+
 ├── support-correspondence/
 │   ├── initial-email.md
 │   ├── tier2-note.md
 │   └── final-resolution-email.md
-│
--
+
 ├── diagrams/
-│   └── merchant-flow.png
-│   └── Webhook_Flow_Error.png
-│   └── support-lifecycle.png
-│
--
+│   ├── merchant-flow.png
+│   ├── Webhook_Flow_Error.png
+│   └── support-lifecycle.png </pre>
