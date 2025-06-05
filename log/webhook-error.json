@@ -1,0 +1,14 @@
+{
+  "error": {
+    "type": "bad_request",
+    "code": 400,
+    "message": "Invalid webhook payload structure.",
+    "details": "Expected field 'event_type' is missing."
+  },
+  "received_payload": {
+    "customer_id": "shop_9876",
+    "order_total": 126.50
+  },
+  "timestamp": "2025-06-01T13:45:10Z",
+  "request_id": "req_xyz7890123"
+}
