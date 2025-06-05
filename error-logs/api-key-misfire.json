@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-05-30T15:42:00Z",
+  "error": "401 Unauthorized",
+  "message": "Invalid or expired API key",
+  "endpoint": "/affirm/v1/checkout",
+  "merchant_id": "fitfuel_321"
+}
