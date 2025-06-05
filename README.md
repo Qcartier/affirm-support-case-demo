@@ -22,6 +22,7 @@ How a clear communication and escalation process supports faster merchant resolu
 🛠️ **Built as part of a mock portfolio for the Affirm Product Support Specialist I role.**
 
 <pre> 🧭 See the full visual flow of this support case: Support Lifecycle Diagram
+  
 affirm-merchant-support-case/
 ├── README.md
 ├── error-logs/
